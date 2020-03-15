@@ -1,0 +1,1 @@
+Idiota = "hola como estas imbecil"
